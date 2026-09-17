@@ -97,3 +97,8 @@ UI/gameplay actions actually trigger playback).
   mocking are put together, and why.
 - [PERFORMANCE.md](./PERFORMANCE.md) - FPS/memory profiling methodology and
   results.
+
+## Time
+
+expected time: 15h
+actual time: 12h
