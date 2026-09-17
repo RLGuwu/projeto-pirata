@@ -100,5 +100,5 @@ UI/gameplay actions actually trigger playback).
 
 ## Time
 
-expected time: 15h
-actual time: 12h
+- expected time: 15h
+- actual time: 12h
